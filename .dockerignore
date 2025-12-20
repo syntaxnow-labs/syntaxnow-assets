@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# Node / tooling (future-proof)
+node_modules
+npm-debug.log
+yarn-error.log
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode
+.idea
+
+# Docs & misc
+README.md
+
+# Docker itself
+Dockerfile
+.dockerignore
